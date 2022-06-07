@@ -36,7 +36,7 @@ nav .nav-right-section a{
 }
 
 nav .nav-right-section .menu-icon{
-    background-image: url('https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png');
+    background-image: url('menu.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -95,7 +95,7 @@ main .main-input-container{
     }
 
     main .main-input .search-icon{
-        background-image: url('https://img.icons8.com/android/24/000000/search.png');
+        background-image: url('lupa.png');
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
@@ -105,7 +105,7 @@ main .main-input-container{
     }
 
    main .main-input .micro-icon{
-        background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/726px-Google_mic.svg.png');
+        background-image: url('microfono.png');
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
